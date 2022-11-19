@@ -1,0 +1,6360 @@
+{
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "total_page": 1,
+  "results": [
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 11,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "14-11-2022 10:39:07",
+      "files": [
+        {
+          "id": 6,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 7,
+        "title": "product3",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 7,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:51:18",
+      "files": [
+        {
+          "id": 3,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "note": "test note send",
+          "note_type": "general",
+          "offer": 7,
+          "added_by": {
+            "id": 16,
+            "first_name": "Test",
+            "last_name": "User4",
+            "picture": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/2/cubes_shape_glow_background_850_02092022_221532.jpg"
+          }
+        }
+      ],
+      "product": {
+        "id": 3,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 6,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "approved",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "07-10-2022 11:50:50",
+      "files": [
+        {
+          "id": 2,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "New",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    },
+    {
+      "id": 1,
+      "item_type": "product",
+      "tradable": true,
+      "added_by": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "status": "declined",
+      "is_active": true,
+      "seller": {
+        "id": 5,
+        "first_name": "",
+        "last_name": "",
+        "picture": ""
+      },
+      "activated_by_admin": true,
+      "created_at": "03-10-2022 21:28:27",
+      "files": [
+        {
+          "id": 1,
+          "file": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_primary": true
+        }
+      ],
+      "notes": [],
+      "product": {
+        "id": 1,
+        "title": "product2",
+        "category_id": 1,
+        "category": {
+          "id": 1,
+          "name": "Phone",
+          "type": "product",
+          "slug": "phone",
+          "description": "phone",
+          "photo": {
+            "id": 24,
+            "name": "control.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/10/28/control_28102022_130720.jpg",
+            "extension": "jpg",
+            "size": 9171,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": null,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "sub_category_id": 2,
+        "sub_category": {
+          "id": 2,
+          "name": "oppo",
+          "type": "product",
+          "slug": "oppo",
+          "description": "added",
+          "photo": {
+            "id": 1,
+            "name": "hqdefault.jpg",
+            "file": "https://qproco.s3.amazonaws.com/static_media/uploads/2022/9/26/hqdefault_26092022_204611.jpg",
+            "extension": "jpg",
+            "size": 21106,
+            "description": null
+          },
+          "is_active": true,
+          "parent_id": 1,
+          "created_at": "25-09-2022 21:52:52",
+          "added_by": {
+            "id": 3,
+            "first_name": "Admin",
+            "last_name": "Bangladesh",
+            "picture": ""
+          }
+        },
+        "negotiable": false,
+        "price": 54.5,
+        "condition": "new",
+        "description": "test description",
+        "min_quantity": null,
+        "validity": "26-10-2021 00:00:00"
+      }
+    }
+  ]
+}
