@@ -1,0 +1,127 @@
+{
+    "code": 200,
+    "message": "Product Tree Fetched",
+    "data": [
+        {
+            "id": 1,
+            "caption": "EMI Partners",
+            "description": null,
+            "level": "1",
+            "parentId": "0",
+            "iconUrl": "storage/DiscountPartner/F2wFD3ygeY.png",
+            "isActive": "1",
+            "canApply": "0",
+            "position": "1",
+            "next": [
+                {
+                    "id": 3,
+                    "caption": "EMI-Air Alliance",
+                    "description": null,
+                    "level": "2",
+                    "parentId": "1",
+                    "iconUrl": "storage/DiscountPartner/oqI6tbtRoq.png",
+                    "isActive": "1",
+                    "canApply": "0",
+                    "position": "1",
+                    "next": [
+                        {
+                            "id": 7,
+                            "caption": "Novo Air",
+                            "description": null,
+                            "level": "3",
+                            "parentId": "3",
+                            "iconUrl": "storage/DiscountPartner/51KEiIuEyj.png",
+                            "isActive": "1",
+                            "canApply": "1",
+                            "position": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "caption": "Electronics & Home Appliance",
+                    "description": null,
+                    "level": "2",
+                    "parentId": "1",
+                    "iconUrl": null,
+                    "isActive": "1",
+                    "canApply": "0",
+                    "position": "2",
+                    "next": [
+                        {
+                            "id": 10,
+                            "caption": "Esquire Electronics Ltd.",
+                            "description": null,
+                            "level": "3",
+                            "parentId": "4",
+                            "iconUrl": null,
+                            "isActive": "1",
+                            "canApply": "1",
+                            "position": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "caption": "SWAP",
+            "description": "SWAP Your Card Anytime AnyWhere",
+            "level": "1",
+            "parentId": "0",
+            "iconUrl": null,
+            "isActive": "1",
+            "canApply": "0",
+            "position": "2",
+            "next": [
+                {
+                    "id": 5,
+                    "caption": "Card Swap",
+                    "description": "Credit Card Swap",
+                    "level": "2",
+                    "parentId": "2",
+                    "iconUrl": null,
+                    "isActive": "1",
+                    "canApply": "1",
+                    "position": "1",
+                    "next": []
+                },
+                {
+                    "id": 6,
+                    "caption": "QR SWAP",
+                    "description": "Swap ur QR",
+                    "level": "2",
+                    "parentId": "2",
+                    "iconUrl": null,
+                    "isActive": "1",
+                    "canApply": "0",
+                    "position": "2",
+                    "next": [
+                        {
+                            "id": 8,
+                            "caption": "Airport SWAP",
+                            "description": "Airport SWAP Your Card",
+                            "level": "3",
+                            "parentId": "6",
+                            "iconUrl": null,
+                            "isActive": "1",
+                            "canApply": "1",
+                            "position": "1"
+                        },
+                        {
+                            "id": 9,
+                            "caption": "Airport Food",
+                            "description": "Eat Food Airport",
+                            "level": "3",
+                            "parentId": "6",
+                            "iconUrl": null,
+                            "isActive": "1",
+                            "canApply": "1",
+                            "position": "2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
